@@ -13,27 +13,6 @@
         scanf("%d", &T4);
     }
 
-    void affichlivre(){
-
-    }
-
-    void recherch(){
-
-    }
-
-    void affichlivre(){
-
-    }
-
-    void affichlivre(){
-
-    }
-
-    void affichlivre(){
-
-    }
-
-
 int main() {
     int choice;
 
